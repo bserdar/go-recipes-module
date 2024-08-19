@@ -2,6 +2,8 @@ package example
 
 import (
 	"fmt"
+
+	_ "github.com/spf13/viper"
 )
 
 func Example() {
